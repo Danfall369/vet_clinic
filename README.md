@@ -61,14 +61,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-- **Animal Management**: Track information about animals, including their names, breeds, and ages.
-- **Owner Management**: Store data about animal owners, including their names, contact information, and addresses.
-- **Employee Management**: Keep records of clinic employees, including their names, roles, and contact details.
-- **Visit Tracking**: Record visits made by animals to the clinic, including the date, animal ID, owner ID, and reason for the visit.
+- **N/A**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- N/A
+- **N/A**
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -107,11 +104,11 @@ To create the database tables and populate them with sample data, execute the fo
 
 ### Run tests
 
-No tests are available for this project.
+- **N/A**
 
 ### Deployment
 
-You can deploy this project using your preferred deployment method for PostgreSQL databases.
+- **N/A**
 
 ## 👥 Authors <a name="authors"></a>
 
