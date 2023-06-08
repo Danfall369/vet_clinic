@@ -1,5 +1,3 @@
-/* Database schema to keep the structure of entire database. */
-
 CREATE TABLE animals(
 	id SERIAL PRIMARY KEY,
 	name varchar(20) NOT NULL,
@@ -8,3 +6,6 @@ CREATE TABLE animals(
 	neutered boolean NOT NULL DEFAULT false,
 	weight_kg float NOT NULL
 );
+
+ALTER TABLE animals
+ADD COLUMN species VARCHAR;
