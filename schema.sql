@@ -1,3 +1,4 @@
+-- Create the animals table
 CREATE TABLE animals(
 	id SERIAL PRIMARY KEY,
 	name varchar(20) NOT NULL,
@@ -7,6 +8,7 @@ CREATE TABLE animals(
 	weight_kg float NOT NULL
 );
 
+-- Add the species column to the animals table
 ALTER TABLE animals
 ADD COLUMN species VARCHAR;
 
