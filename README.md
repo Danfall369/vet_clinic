@@ -112,7 +112,7 @@ To create the database tables and populate them with sample data, execute the fo
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Daniel Falcon**
 
 - GitHub: [@Danfall369](https://github.com/Danfall369)
 - Twitter: [@Danfall369](https://twitter.com/Danfall369)
